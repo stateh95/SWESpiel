@@ -1,0 +1,2 @@
+# SWESpiel
+Streategy Game
